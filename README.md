@@ -1,5 +1,5 @@
 # Had2Apps.Materials
-Had2Appsのフリー素材
+Had2Appsのフリー素材置き場。
 
 ## オリジナル素材
 ### RPGツクールMV専用 SF素材
